@@ -1,15 +1,21 @@
-# 俞杉麒 Yu, Shan-Chi  
+Hey there!👋  
+I'm a senior at National Cheng Kung University majoring in engineering science, fascniated with verilog coding.
+# About me
  - E-Mail:  
 &emsp;e94071013@gs.ncku.edu.tw  
  - Education：  
 &emsp;國立成功大學 工程科學系
+ - 在學成績：   
+&emsp;學期平均： 83.05 &emsp;系排名：15/73 （截至大三下學期）
  - 英語能力：  
-&emsp;TOEIC： 835
-  
-&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=radical)](https://github.com/dhiptmc)  
-# Currently working ...  
+&emsp;TOEIC： 835  
+ - Currently working on ...  
   
 &emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ic-contest&theme=radical)](https://github.com/dhiptmc/ic-contest)
+
+ - Github analytics  
+  
+&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=radical)](https://github.com/dhiptmc)  
 
 # 課堂上軟體、硬體描述語言及程式語言經驗
  - 程式設計/資料結構/作業系統：  
