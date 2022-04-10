@@ -3,7 +3,7 @@
 &emsp;e94071013@gs.ncku.edu.tw  
  - Education：  
 &emsp;國立成功大學 工程科學系
- - 語文能力：  
+ - 英語能力：  
 &emsp;TOEIC： 835
   
 &emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=radical)](https://github.com/dhiptmc)  
