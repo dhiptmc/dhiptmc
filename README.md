@@ -9,10 +9,10 @@
  - E-Mail:    
 &emsp;e94071013@gs.ncku.edu.tw  
   
-&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=dark)](https://github.com/dhiptmc)  
+&emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=radical)](https://github.com/dhiptmc)  
 # Currently working ...  
   
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ic-contest&theme=dark)](https://github.com/dhiptmc/ic-contest)
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ic-contest&theme=radical)](https://github.com/dhiptmc/ic-contest)
 
 # 課堂上軟體、硬體描述語言及程式語言經驗
  - 程式設計/資料結構/作業系統：  
@@ -50,11 +50,11 @@
  - 專題競賽：  
 &emsp;「DRONK」——結合外送平台之無人機外送  
   
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system&theme=dark)](https://github.com/dhiptmc/DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system)
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system&theme=radical)](https://github.com/dhiptmc/DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system)
  - 多媒體內容分析：  
 &emsp;實作 Video Shot change detection  
   
-
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=Video-shot-change-detection&theme=radical)](https://github.com/dhiptmc/Video-shot-change-detection)
 # 經歷與活動
  - 系外工讀  
 &emsp;國高中補習班數理輔導老師、家教
@@ -68,7 +68,8 @@
 &emsp;課輔長
 
 # 競賽
- - 2022 大學校院積體電路設計競賽 大學部標準元件電路設計組 完成出賽 等待結果中
+ - 2022 大學校院積體電路設計競賽 大學部標準元件電路設計組  
+&emsp;完成出賽 結果等待中
 
 <!---
 dhiptmc/dhiptmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
