@@ -50,7 +50,8 @@
  - 專題競賽：  
 &emsp;「DRONK」——結合外送平台之無人機外送  
   
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system&theme=radical)](https://github.com/dhiptmc/DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system)
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=DRONK&theme=radical)](https://github.com/dhiptmc/DRONK)
+
  - 多媒體內容分析：  
 &emsp;實作 Video Shot change detection  
   
