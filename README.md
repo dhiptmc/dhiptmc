@@ -10,7 +10,7 @@
 &emsp;e94071013@gs.ncku.edu.tw  
   
 &emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=dark)](https://github.com/dhiptmc)  
- - Currently working ...  
+# Currently working ...  
   
 &emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ic-contest&theme=dark)](https://github.com/dhiptmc/ic-contest)
 
@@ -48,7 +48,9 @@
  - 熱傳學：  
 &emsp;小專題：鰭片散熱——自然對流
  - 專題競賽：  
-&emsp;「DRONK」——結合外送平台之無人機外送
+&emsp;「DRONK」——結合外送平台之無人機外送  
+  
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system&theme=dark)](https://github.com/dhiptmc/DRONK---Drink-delivery-with-drone-and-mobile-application-based-on-database-system)
  - 多媒體內容分析：  
 &emsp;實作 Video Shot change detection  
   
