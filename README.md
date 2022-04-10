@@ -1,13 +1,10 @@
 # 俞杉麒 Yu, Shan-Chi  
- - 求學經歷：  
-&emsp;臺北市立建國高級中學  
+ - E-Mail:  
+&emsp;e94071013@gs.ncku.edu.tw  
+ - Education：  
 &emsp;國立成功大學 工程科學系
- - 在學成績：   
-&emsp;學期平均： 83.05 &emsp;系排名：15/73 （截至大三下學期）
  - 語文能力：  
 &emsp;TOEIC： 835
- - E-Mail:    
-&emsp;e94071013@gs.ncku.edu.tw  
   
 &emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiptmc&langs_count=10&layout=compact&theme=radical)](https://github.com/dhiptmc)  
 # Currently working ...  
