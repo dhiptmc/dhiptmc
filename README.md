@@ -54,7 +54,7 @@
  - 多媒體內容分析：  
 &emsp;實作 Video Shot change detection  
   
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=Video-shot-change-detection&theme=dark)](https://github.com/dhiptmc/Video-shot-change-detection)
+
 # 經歷與活動
  - 系外工讀  
 &emsp;國高中補習班數理輔導老師、家教
