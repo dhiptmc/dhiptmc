@@ -6,7 +6,8 @@ I'm a senior at National Cheng Kung University majoring in engineering science, 
  - Education：  
 &emsp;國立成功大學 工程科學系
  - 在學成績：   
-&emsp;學期平均： 83.05 &emsp;系排名：15/73 （截至大三下學期）
+&emsp;學期平均： 83.05 &emsp;系排名： 15/73 （截至大三下學期）  
+&emsp;大四上學期： 93.17 &emsp;系排名： 2/55 
  - 英語能力：  
 &emsp;TOEIC： 835  
  - Currently working on ...  
