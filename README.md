@@ -6,7 +6,7 @@ I'm currently a Ph.D. student in Department of Computer Science and Information 
 
 - Currently working on ...  
   
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ComputerArchitecture&theme=radical)](https://github.com/dhiptmc/ic-contest)
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ComputerArchitecture&theme=radical)](https://github.com/dhiptmc/ComputerArchitecture)
 
  - Github analytics  
   
