@@ -8,7 +8,7 @@ I'm currently a Ph.D. student in Department of Computer Science and Information 
   
 &emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=ComputerArchitecture&theme=radical)](https://github.com/dhiptmc/ComputerArchitecture)
 
-&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=CvDl)](https://github.com/dhiptmc/CvDl)
+&emsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dhiptmc&repo=CvDl&theme=radical)](https://github.com/dhiptmc/CvDl)
 
  - Github analytics  
   
