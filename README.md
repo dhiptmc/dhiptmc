@@ -1,5 +1,5 @@
 Hey there!👋  
-I'm currently a Ph.D. student in Department of Computer Science and Information Engineering in National Cheng Kung University, fascniated with verilog coding.
+I'm currently a Ph.D. student in the Department of Computer Science and Information Engineering at National Cheng Kung University, fascinated with Verilog coding.
 # About me
  - E-Mail:  
 &emsp;p78111519@gs.ncku.edu.tw  
